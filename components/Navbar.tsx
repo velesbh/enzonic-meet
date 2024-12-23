@@ -10,9 +10,9 @@ const Navbar = () => {
       <Link href="/" className="flex items-center gap-1">
         <Image
           src="/icons/logo.svg"
-          width={32}
-          height={32}
-          alt="yoom logo"
+          width={64}
+          height={64}
+          alt="enzonic logo"
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
