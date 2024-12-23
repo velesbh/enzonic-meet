@@ -54,7 +54,7 @@ const MeetingSetup = ({
   if (callHasEnded)
     return (
       <Alert
-        title="The call has been ended by the host"
+        title="The call has been ended by a person more important than you"
         iconUrl="/icons/call-ended.svg"
       />
     );
